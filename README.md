@@ -1,5 +1,5 @@
 # About
-Shops in Roblox Evade at the press of a few buttons! No more destroying your hand!
+Shops in Roblox Evade at the press of a few buttons! No more destroying your hand! Currently only designed for playing in maximised windowed mode in 1920x1080.
 # Note
 This requires the program AutoHotkey to work. If you do not have it installed, click this link https://www.autohotkey.com/download/ahk-install.exe and it will automatically download the installer. Express installation recommended.
 # To Install And Use
