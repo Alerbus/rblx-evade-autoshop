@@ -11,6 +11,7 @@ CoordMode,Mouse,Screen
 			Click,1417,904
 		}
 	}
+	Reload
 return
 ~2::
 	PixelGetColor,purchase,1417,904,RGB
@@ -22,6 +23,7 @@ return
 			Click,1417,904
 		}
 	}
+	Reload
 return
 ~3::
 	PixelGetColor,purchase,1417,904,RGB
@@ -33,6 +35,7 @@ return
 			Click,1417,904
 		}
 	}
+	Reload
 return
 ~4::
 	PixelGetColor,purchase,1417,904,RGB
@@ -44,6 +47,7 @@ return
 			Click,1417,904
 		}
 	}
+	Reload
 return
 ~5::
 	PixelGetColor,purchase,1417,904,RGB
@@ -55,6 +59,7 @@ return
 			Click,1417,904
 		}
 	}
+	Reload
 return
 ~6::
 	PixelGetColor,purchase,1417,904,RGB
@@ -66,6 +71,7 @@ return
 			Click,1417,904
 		}
 	}
+	Reload
 return
 ~7::
 	PixelGetColor,purchase,1417,904,RGB
@@ -77,6 +83,7 @@ return
 			Click,1417,904
 		}
 	}
+	Reload
 return
 ~8::
 	PixelGetColor,purchase,1417,904,RGB
@@ -88,6 +95,7 @@ return
 			Click,1417,904
 		}
 	}
+	Reload
 return
 ~Space::
 	PixelGetColor,purchase,1417,904,RGB
@@ -97,5 +105,5 @@ return
 			Click,1417,904
 		}
 	}
+	Reload
 return
-Reload
