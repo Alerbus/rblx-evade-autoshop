@@ -2,6 +2,7 @@
 CoordMode,Pixel,Screen
 CoordMode,Mouse,Screen
 ~1 Up::
+	Suspend On
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -14,6 +15,7 @@ CoordMode,Mouse,Screen
 	Reload
 return
 ~2 Up::
+	Suspend On
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -26,6 +28,7 @@ return
 	Reload
 return
 ~3 Up::
+	Suspend On
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -38,6 +41,7 @@ return
 	Reload
 return
 ~4 Up::
+	Suspend On
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -50,6 +54,7 @@ return
 	Reload
 return
 ~5 Up::
+	Suspend On
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -62,6 +67,7 @@ return
 	Reload
 return
 ~6 Up::
+	Suspend On
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -74,6 +80,7 @@ return
 	Reload
 return
 ~7 Up::
+	Suspend On
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -86,6 +93,7 @@ return
 	Reload
 return
 ~8 Up::
+	Suspend On
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -98,6 +106,7 @@ return
 	Reload
 return
 ~Space Up::
+	Suspend On
 	PixelGetColor,purchase,1417,904,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
 		InputBox,OutputVar
