@@ -1,7 +1,7 @@
 ﻿#SingleInstance Force
 CoordMode,Pixel,Screen
 CoordMode,Mouse,Screen
-~1::
+~1 Up::
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -13,7 +13,7 @@ CoordMode,Mouse,Screen
 	}
 	Reload
 return
-~2::
+~2 Up::
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -25,7 +25,7 @@ return
 	}
 	Reload
 return
-~3::
+~3 Up::
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -37,7 +37,7 @@ return
 	}
 	Reload
 return
-~4::
+~4 Up::
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -49,7 +49,7 @@ return
 	}
 	Reload
 return
-~5::
+~5 Up::
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -61,7 +61,7 @@ return
 	}
 	Reload
 return
-~6::
+~6 Up::
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -73,7 +73,7 @@ return
 	}
 	Reload
 return
-~7::
+~7 Up::
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -85,7 +85,7 @@ return
 	}
 	Reload
 return
-~8::
+~8 Up::
 	PixelGetColor,purchase,1417,904,RGB
 	PixelGetColor,box,959,539,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
@@ -97,7 +97,7 @@ return
 	}
 	Reload
 return
-~Space::
+~Space Up Up::
 	PixelGetColor,purchase,1417,904,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
 		InputBox,OutputVar
