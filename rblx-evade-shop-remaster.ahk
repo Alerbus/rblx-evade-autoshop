@@ -89,7 +89,7 @@ return
 		}
 	}
 return
-Space::
+~Space::
 	PixelGetColor,purchase,1417,904,RGB
 	If (purchase = "0x54F549") and !(box = "0xF0F0F0") {
 		InputBox,OutputVar
